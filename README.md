@@ -19,5 +19,5 @@ open http://127.0.0.1:8000/api/v1/ to work with API.
 - Django 4.0.4 & Python 3.8
 - Django REST Framework 3.13.0
 - Install via [Pip](https://pypi.org/project/pip/), [Pipenv](https://pypi.org/project/pipenv/)
-- User log in/out, sign up, password reset endpoint via [dj-rest-auth] and [django-allauth](https://github.com/pennersr/django-allauth)
+- User log in/out, sign up, password reset endpoint via [dj-rest-auth](https://github.com/iMerica/dj-rest-auth) and [django-allauth](https://github.com/pennersr/django-allauth)
 - Pyyaml & Uritemplate & Drf-yasg to generate API Documentation tool.
