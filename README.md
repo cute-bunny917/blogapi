@@ -1,14 +1,17 @@
 # Blog API - Hobby Project
 
 A Blog API using the full set of Django REST Framework features. It have users, permissions, and allow for full CRUD (Create-Read-Update-Delete) functionality and Support Swagger API Documentation tool. 
+![image](https://user-images.githubusercontent.com/87778419/168694578-40f79af8-4a24-4685-a271-f9beb5bd56d0.png)
+![image](https://user-images.githubusercontent.com/87778419/168694670-6a8616f3-e495-4775-815a-28a26658ecb8.png)
 
 ## 📖 Installation
-To start,Install Python, pipenv then clone the repo to your local computer and change into the proper directory.
+To start, Install Python, pipenv then clone the repo to your local computer and change into the proper directory.
 ```
 $ git clone https://github.com/cute-bunny917/bookstore.git
 $ cd blogapi
 $ pipenv install
 $ pipenv shell
+$ python manage.py createsuperuser
 $ python manage.py runserver
 open http://127.0.0.1:8000/swagger/  to work with API Documentation tool(swagger)
 open http://127.0.0.1:8000/api/v1/  to work with API.
