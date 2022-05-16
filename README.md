@@ -19,6 +19,7 @@ open http://127.0.0.1:8000/swagger/  to work with API Documentation tool(swagger
 open http://127.0.0.1:8000/api/v1/  to work with API.
 ```
 <img src="https://user-images.githubusercontent.com/87778419/168694793-26a2f1c4-c3c8-4231-aa30-c7ed7e70872f.png">
+
 ## 🚀 Features
 
 - Django 4.0.4 & Python 3.8
