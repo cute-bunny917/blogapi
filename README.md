@@ -10,8 +10,8 @@ $ cd blogapi
 $ pipenv install
 $ pipenv shell
 $ python manage.py runserver
-open http://127.0.0.1:8000/swagger/  for API Documentation tool
-open http://127.0.0.1:8000/api/v1/ to work with API.
+open http://127.0.0.1:8000/swagger/  to work with API Documentation tool(swagger)
+open http://127.0.0.1:8000/api/v1/  to work with API.
 ```
 
 ## 🚀 Features
